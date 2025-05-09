@@ -1,4 +1,4 @@
-# Data-Science-Gen-AI
+# Data Science & Gen AI
 
 All resources, code and projects related to data science and Gen-AI.
 
